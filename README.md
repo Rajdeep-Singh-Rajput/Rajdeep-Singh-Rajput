@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rajdeep-Singh-Rajput
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning Competitive Programming
 - 💞️ I’m looking to collaborate on Data Structures and Algorithm.
 - 📫 How to reach me : rajdeepsinghvns89@gmail.com
 
